@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 15.0.2
+Implementation-Title: HospitalManagementSystem-SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.innominds.springBoots
+Implementation-URL: https://spring.io/projects/spring-boot/HospitalManag
+ ementSystem-SpringBoot
+Created-By: Maven Integration for Eclipse
+
